@@ -1,2 +1,2 @@
 # Voice recognition
- A page that will display a picture of an object when the user says its name
+ A page that will display a picture of an object when the user says its name using JavaScript. 
